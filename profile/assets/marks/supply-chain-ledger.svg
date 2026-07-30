@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Supply Chain mark — CKODEX DS-3 (ledger)">
+<rect width="120" height="120" fill="#F6F1E8"></rect>
+<path d="M 12,44 H 36 V 76 H 12 Z" fill="none" stroke="#211B14" stroke-width="2" stroke-linejoin="miter"></path>
+        <path d="M 48,44 H 72 V 76 H 48 Z" fill="none" stroke="#211B14" stroke-width="2" stroke-linejoin="miter"></path>
+        <path d="M 84,44 H 100 L 108,52 V 76 H 84 Z" fill="none" stroke="#211B14" stroke-width="2" stroke-linejoin="miter"></path>
+        <line x1="36" y1="60" x2="48" y2="60" stroke="#211B14" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <line x1="72" y1="60" x2="84" y2="60" stroke="#211B14" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <polygon points="96,56 102,62 96,68 90,62" fill="#211B14"></polygon>
+</svg>

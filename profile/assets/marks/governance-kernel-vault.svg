@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="GOVERNANCE KERNEL mark — CKODEX DS-3 (vault)">
+<rect width="120" height="120" fill="#0A1322"></rect>
+<path d="M 36,20 H 84 L 100,36 V 84 L 84,100 H 36 L 20,84 V 36 Z" fill="none" stroke="#EAE5DA" stroke-width="2.5" stroke-linejoin="miter"></path>
+        <polygon points="60,44 76,60 60,76 44,60" fill="#EAE5DA"></polygon>
+        <circle cx="60" cy="60" r="4" fill="#0A1322"></circle>
+        <line x1="60" y1="20" x2="60" y2="12" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <line x1="60" y1="100" x2="60" y2="108" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <line x1="20" y1="60" x2="12" y2="60" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <line x1="100" y1="60" x2="108" y2="60" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <line x1="28" y1="28" x2="22" y2="22" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.25"></line>
+        <line x1="92" y1="28" x2="98" y2="22" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.25"></line>
+        <line x1="28" y1="92" x2="22" y2="98" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.25"></line>
+        <line x1="92" y1="92" x2="98" y2="98" stroke="#EAE5DA" stroke-opacity="0.45" stroke-width="1.25"></line>
+</svg>

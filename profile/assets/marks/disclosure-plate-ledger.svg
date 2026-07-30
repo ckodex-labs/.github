@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Disclosure Plate mark — CKODEX DS-3 (ledger)">
+<rect width="120" height="120" fill="#F6F1E8"></rect>
+<path d="M 14,14 H 106 V 106 H 14 Z" fill="none" stroke="#211B14" stroke-width="2.5" stroke-linejoin="miter"></path>
+        <line x1="28" y1="34" x2="92" y2="34" stroke="#211B14" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <line x1="28" y1="50" x2="80" y2="50" stroke="#211B14" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <rect x="28" y="62" width="52" height="10" fill="#211B14"></rect>
+        <line x1="28" y1="88" x2="72" y2="88" stroke="#211B14" stroke-opacity="0.45" stroke-width="1.5"></line>
+        <polygon points="92,81 99,88 92,95 85,88" fill="#211B14"></polygon>
+</svg>
