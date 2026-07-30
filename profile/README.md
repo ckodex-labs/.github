@@ -99,7 +99,7 @@ The receiver inherits handling with the payload. `bundle_digest` verifies by res
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ciqr-vault.svg"><img src="./assets/ciqr-ledger.svg" alt="CIQR — scan to resolve github.com/ckodex-labs" width="120"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/provenance-stamp-vault.svg"><img src="./assets/provenance-stamp-ledger.svg" alt="Provenance stamp — sealed content digest" width="200"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ciqr-vault.svg"><img src="./assets/ciqr-ledger.svg" alt="CIQR — scan to resolve github.com/ckodex-labs" width="72"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/provenance-stamp-vault.svg"><img src="./assets/provenance-stamp-ledger.svg" alt="Provenance stamp — sealed content digest" width="220"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/authority-band-vault.svg"><img src="./assets/authority-band-ledger.svg" alt="Authority band: Ckodex Labs · handling open · public GitHub org · mode changes deployment, not governance semantics" width="840"></picture>
 
