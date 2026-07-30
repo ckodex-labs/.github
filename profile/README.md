@@ -3,9 +3,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-vault.svg"><img src="./assets/hero-ledger.svg" alt="Ckodex Labs — verifiable intelligence" width="840"></picture>
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-proof-native-vault.svg"><img src="./assets/chip-proof-native-ledger.svg" alt="Proof-native"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-status-vault.svg"><img src="./assets/chip-status-ledger.svg" alt="Status: building"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-tier-vault.svg"><img src="./assets/chip-tier-ledger.svg" alt="Evidence tier: E0 claimed"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-proof-native-vault.svg"><img src="./assets/chip-proof-native-ledger.svg" alt="Proof-native" width="144"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-status-vault.svg"><img src="./assets/chip-status-ledger.svg" alt="Status: building" width="205"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-tier-vault.svg"><img src="./assets/chip-tier-ledger.svg" alt="Evidence tier: E0 claimed" width="284"></picture>
 </p>
 
 </div>
@@ -28,7 +28,7 @@ Ckodex Labs builds the layer between AI capability and the obligation to prove b
 
 ### How it works — the proof chain
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proof-chain-diagram-vault.svg"><img src="./assets/proof-chain-diagram-ledger.svg" alt="The proof chain: act, attest, anchor, audit"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proof-chain-diagram-vault.svg"><img src="./assets/proof-chain-diagram-ledger.svg" alt="The proof chain: act, attest, anchor, audit" width="840"></picture>
 
 | `01 · act` | `02 · attest` | `03 · anchor` | `04 · audit` |
 |---|---|---|---|
@@ -46,7 +46,7 @@ Public repositories land incrementally. A register turns `⊢ observed` when its
 
 <div align="center">
 
-<a href="https://github.com/ckodex-labs"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-watch-vault.svg"><img src="./assets/chip-watch-ledger.svg" alt="Watch the org"></picture></a>
+<a href="https://github.com/ckodex-labs"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-watch-vault.svg"><img src="./assets/chip-watch-ledger.svg" alt="Watch the org" width="170"></picture></a>
 
 </div>
 
@@ -99,9 +99,9 @@ The receiver inherits handling with the payload. `bundle_digest` verifies by res
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ciqr-vault.svg"><img src="./assets/ciqr-ledger.svg" alt="CIQR — scan to resolve github.com/ckodex-labs"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/provenance-stamp-vault.svg"><img src="./assets/provenance-stamp-ledger.svg" alt="Provenance stamp — sealed content digest"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ciqr-vault.svg"><img src="./assets/ciqr-ledger.svg" alt="CIQR — scan to resolve github.com/ckodex-labs" width="120"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/provenance-stamp-vault.svg"><img src="./assets/provenance-stamp-ledger.svg" alt="Provenance stamp — sealed content digest" width="200"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/authority-band-vault.svg"><img src="./assets/authority-band-ledger.svg" alt="Authority band: Ckodex Labs · handling open · public GitHub org · mode changes deployment, not governance semantics"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/authority-band-vault.svg"><img src="./assets/authority-band-ledger.svg" alt="Authority band: Ckodex Labs · handling open · public GitHub org · mode changes deployment, not governance semantics" width="840"></picture>
 
 <sub>CKODEX-DS-3 · Evidence Editorial · v3.0.0</sub>
 
